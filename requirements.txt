@@ -4,3 +4,4 @@ scikit-learn
 plotly==5.18.0
 streamlit==1.32.0
 statsmodels
+openpyxl
