@@ -1,11 +1,2 @@
 [server]
 fileWatcherType = "none"
-```
-
----
-
-**Step 4 — Wait 2-3 minutes**
-
-Streamlit will install all libraries from `requirements.txt` and launch your app. You'll get a live link like:
-```
-https://anupam-marketing-budget-optimizer.streamlit.app
