@@ -235,7 +235,7 @@ fig4 = px.scatter(
     df,
     x=channel_select,
     y="Revenue",
-    trendline="lowess",
+    
     color_discrete_sequence=[colors[channel_select]],
     labels={
         channel_select: f"{channel_labels[channel_select]} Spend (₹)",
